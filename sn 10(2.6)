@@ -15,6 +15,6 @@ int main() {
     printf("Size of double: %zu bytes\n", sizeof(doubleVar));
     printf("Size of long int: %zu bytes\n", sizeof(longIntVar));
     printf("Size of short int: %zu bytes\n", sizeof(shortIntVar));
-
+    printf("\nSabda Chalise");
     return 0;
 }
